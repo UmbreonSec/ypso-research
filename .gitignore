@@ -1,0 +1,11 @@
+private/
+.venv/
+.venv-proxy/
+build/
+__pycache__/
+*.pyc
+*.log
+*.enc
+*.keystore
+*.apk
+*.idsig
